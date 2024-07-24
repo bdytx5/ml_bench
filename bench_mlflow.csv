@@ -1,0 +1,12 @@
+v1-2024-04-11-0,,v1-empty,"mode=offline,core=false",2.14.3,,,,time_load,0.29576897621154785
+v1-2024-04-11-0,,v1-empty,"mode=offline,core=true",2.14.3,,,,time_load,0.006032228469848633
+v1-2024-04-11-0,,v1-empty,"mode=online,core=false",2.14.3,,,,time_load,0.005296945571899414
+v1-2024-04-11-0,,v1-empty,"mode=online,core=true",2.14.3,,,,time_load,0.006292104721069336
+v1-2024-04-11-0,,v1-scalars,"mode=offline,core=false",2.14.3,,,,time_load,25.72197985649109
+v1-2024-04-11-0,,v1-scalars,"mode=offline,core=true",2.14.3,,,,time_load,24.070170879364014
+v1-2024-04-11-0,,v1-scalars,"mode=online,core=false",2.14.3,,,,time_load,21.236581087112427
+v1-2024-04-11-0,,v1-scalars,"mode=online,core=true",2.14.3,,,,time_load,22.153520822525024
+v1-2024-04-11-0,,v1-tables,"mode=offline,core=false",2.14.3,,,,time_load,0.4191620349884033
+v1-2024-04-11-0,,v1-tables,"mode=offline,core=true",2.14.3,,,,time_load,0.14219093322753906
+v1-2024-04-11-0,,v1-tables,"mode=online,core=false",2.14.3,,,,time_load,0.12211108207702637
+v1-2024-04-11-0,,v1-tables,"mode=online,core=true",2.14.3,,,,time_load,0.11727213859558105
